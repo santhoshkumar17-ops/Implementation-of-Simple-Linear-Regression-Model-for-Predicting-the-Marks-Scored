@@ -14,12 +14,13 @@ To write a program to predict the marks scored by a student using the simple lin
 4. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 ## Program:
-```
+```python
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: SANTHOSH KUMAR SS
 RegisterNumber:212225230251
 */
+
 # Step 1: Import Libraries
 import numpy as np
 import pandas as pd
